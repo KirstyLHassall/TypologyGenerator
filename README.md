@@ -1,4 +1,4 @@
-# TypologyGenerator
+# TypologyGenerator ![image](https://user-images.githubusercontent.com/41451354/224658201-33dd358b-c92d-42b7-9b17-040c3ce869d1.png)
 
 TypologyGenerator, an R-Shiny HTML application to construct distinct farm typologies using the generalized framework as described in Hassall et al (submitted). 
 
