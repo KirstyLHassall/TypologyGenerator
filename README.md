@@ -27,5 +27,7 @@ install.packages("dendextend")
 
 To run the software application, open the file server.R (in RStudio) and press “Run App”. This will open the software application for use. Help pages are provided on a tab within the shiny application. Example data are provided in the file TP.csv
 
+Alternatively, users can access the app at https://kirstylhassall.shinyapps.io/TypologyGenerator/
+
 ## For developers 
 All necessary R codes are provided as individual files.
